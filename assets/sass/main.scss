@@ -835,8 +835,7 @@
 		top: 1.5em;
 
 		.logo-img{
-			height: 20rem;
-			background: transparent;	
+			background: transparent;
 		}
 
 		h1 {
@@ -1362,7 +1361,7 @@
 
 					&:before {
 						@include vendor('transition', 'all .15s ease-in-out');
-					
+
 						text-decoration: none;
 						content: '\f0c9';
 						font-size: 14px;
