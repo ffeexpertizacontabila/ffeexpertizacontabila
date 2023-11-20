@@ -148,8 +148,8 @@ em, i {
 
 hr {
     border: 0;
-    border-top: solid 1px #ddd;
-    margin: 2em 0 2em 0;
+    /*border-top: solid 1px #ddd;*/
+    /*margin: 2em 0 2em 0;*/
 }
 
 sub {
@@ -1836,8 +1836,8 @@ ul.actions.special {
 }
 
 .feature-list section {
-    border-top: solid 1px #eee;
-    padding-top: 3em;
+    /*border-top: solid 1px #eee;*/
+    /*padding-top: 3em;*/
     padding-left: 5em;
     position: relative;
 }
@@ -2536,8 +2536,8 @@ ul.actions.special {
 
     /* Footer */
     #footer .feature-list {
-        border-top: solid 1px rgba(255, 255, 255, 0.05);
-        padding-top: 4em;
+        /*border-top: solid 1px rgba(255, 255, 255, 0.05);*/
+        /*padding-top: 4em;*/
     }
 
 }
